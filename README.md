@@ -13,6 +13,12 @@ Tendo isso em mente, estruture um script no Python que calcule a previsão de de
 
 Obs: O modelo de previsão pode ser o que você julgue ser o melhor, mas atenção aos detalhes de variação nas vendas!
 
+>Visualização Gráfica
+
+![Previsao_Gráfico](https://user-images.githubusercontent.com/65089744/216726493-62084fbb-f8f5-4055-be93-7c43a180763f.png)
+
+
+
 ## 🔧 Requeriments
 - [Python](https://www.python.org/) 3.x +
 - Pip Install Matplotlib.

@@ -30,7 +30,7 @@ Obs: O modelo de previsão pode ser o que você julgue ser o melhor, mas atenç�
 
 ### Cloning the Repository
 ```
-$ git clone https://github.com/SabrinaRoses/Desafio_Frexco
+$ git clone https://github.com/SabrinaRoses/Desafio_Frexco.git
 ```
 ### Running 
 ```

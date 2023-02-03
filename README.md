@@ -16,7 +16,7 @@ Obs: O modelo de previsão pode ser o que você julgue ser o melhor, mas atenç�
 ## 🔧 Requeriments
 - [Python](https://www.python.org/) 3.x +
 - Pip Install Matplotlib.
-- Pip Install Pandas
+- Pip Install Pandas.
 - Pip install StatsModels.
 
 ## Bibliotecas Utilizadas
